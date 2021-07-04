@@ -33,6 +33,8 @@ Portanto, neste projeto é possivel realizar:
 - Listagem de todos os anúncios cadastrados;
 - Gerar relatório de projeção de alcance de cada anúncio;
 - Gerar relatórios de projeção de alcance de anúncios de um cliente;
+- Gerar relatórios de projeção de alcance de anúncios ativos em um intervalo de tempo;
+- Gerar relatórios de projeção de alcance de anúncios ativos de um cliente em um intervalo de tempo.
 
 <br>
 <div id='tecnologias'/>
