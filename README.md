@@ -41,12 +41,12 @@ Portanto, neste projeto é possivel realizar:
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-&rarr; <a href="https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html">Java</a> - Linguagem de programação utilizada.
-&rarr; <a href="https://spring.io/">SpringBoot</a> - Frameworks java utlizada no projeto. 
-&rarr; <a href="https://maven.apache.org/">Maven </a> - Gerenciar as dependências do projeto.
-&rarr; <a href="https://www.mysql.com/">Mysql</a> - Banco de dados.
-&rarr; <a href="https://www.postman.com/">Postman</a> - Teste local da API.
-&rarr; <a href="https://swagger.io/">Swagger</a> - Documentação da API.  
+&rarr; <a href="https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html">Java</a> - Linguagem de programação utilizada.<br>
+&rarr; <a href="https://spring.io/">SpringBoot</a> - Frameworks java utlizada no projeto. <br>
+&rarr; <a href="https://maven.apache.org/">Maven </a> - Gerenciar as dependências do projeto.<br>
+&rarr; <a href="https://www.mysql.com/">Mysql</a> - Banco de dados.<br>
+&rarr; <a href="https://www.postman.com/">Postman</a> - Teste local da API.<br>
+&rarr; <a href="https://swagger.io/">Swagger</a> - Documentação da API.  <br>
 <br>
 
 <div id='requisitos'/>
